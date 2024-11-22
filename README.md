@@ -12,7 +12,7 @@ java WindowExample
 ```
 
 3. Go to the Ports tab in the bottom panel and open the forwarded address for port 6080 in the browser.
-   - Cmd + Shift + P -> View: Toggle Ports
+   - Cmd/Ctrl + Shift + P -> View: Toggle Ports
    - Open the link next to "Forwarded Port: 6080"
 4. Click "Connect" to connect to the VNC server.
 
