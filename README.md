@@ -3,7 +3,7 @@
 1. Create a codespace on main
    - Click on the green "Code" button and select "Open with Codespaces"
    - This will open a new codespace with a devcontainer with desktop-lite installed
-2. Open the terminal and run the following command to start the application
+2. In the Web-based VSCode, open a new bash terminal and run the following command to start the application
 
 ```bash
 cd lab13/code/swing
